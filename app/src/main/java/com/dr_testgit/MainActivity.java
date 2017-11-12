@@ -12,7 +12,9 @@ public class MainActivity extends AppCompatActivity {
 
         String s = "大家好，我是段小憨";
 
-        String s = "测试github pull request";
+        String s = "测试github pull request   two";   
+
+
 
 
     }
